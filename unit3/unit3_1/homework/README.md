@@ -115,4 +115,3 @@ It is about:
 
 
 
-TODO: https://semgrep.dev/docs/writing-rules/rule-ideas
